@@ -1,0 +1,34 @@
+[
+  {
+    "surah": 1,
+    "ayah": 1,
+    "surah_name": "Al-Fatihah",
+    "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+    "transliteration": "Bismillahir Rahmanir Rahim",
+    "translation": "In the name of Allah, the Entirely Merciful, the Especially Merciful."
+  },
+  {
+    "surah": 1,
+    "ayah": 2,
+    "surah_name": "Al-Fatihah",
+    "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+    "transliteration": "Alhamdu lillahi Rabbil alamin",
+    "translation": "All praise is due to Allah, Lord of the worlds."
+  },
+  {
+    "surah": 2,
+    "ayah": 255,
+    "surah_name": "Al-Baqarah",
+    "arabic": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ",
+    "transliteration": "Allahu la ilaha illa Huwa al-Hayyul-Qayyum",
+    "translation": "Allah - there is no deity except Him, the Ever-Living, the Sustainer of existence."
+  },
+  {
+    "surah": 94,
+    "ayah": 5,
+    "surah_name": "Ash-Sharh",
+    "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+    "transliteration": "Fa inna ma'a al-'usri yusra",
+    "translation": "Indeed, with hardship comes ease."
+  }
+]
